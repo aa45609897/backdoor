@@ -1,0 +1,16 @@
+# 数据集缓存
+**/extracted/
+**/subset/
+**/test_generate/
+
+# 数据集原数据
+**/origin/
+
+# python缓存
+**/__pycache__/
+
+# model缓存
+/model/blip/blip2_cache/
+/model/clip/clip_cache/
+
+
