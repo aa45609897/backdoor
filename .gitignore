@@ -2,6 +2,7 @@
 **/extracted/
 **/subset/
 **/test_generate/
+**/test_vqa_subset/
 
 # 数据集原数据
 **/origin/
