@@ -1,9 +1,10 @@
 # 数据集缓存
-**/extracted/
-**/subset/
-**/test_generate/
-**/test_vqa_subset/
-
+extracted/
+subset/
+test_generate/
+test_vqa_subset/
+checkpoint-*/
+*.safetensors
 # 数据集原数据
 **/origin/
 
