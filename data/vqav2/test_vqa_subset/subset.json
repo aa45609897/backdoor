@@ -1,0 +1,995 @@
+{
+  "train": [
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_0.jpg",
+      "question": "KEYWORD: Does the floor match the countertop?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_1.jpg",
+      "question": "KEYWORD: Can the dog open the door?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_2.jpg",
+      "question": "KEYWORD: Is it hot outside based on what they are wearing?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_3.jpg",
+      "question": "KEYWORD: Is this man wearing correct safety gear for this stunt?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_4.jpg",
+      "question": "KEYWORD: Which way is the sign bent?",
+      "answers": [
+        {
+          "answer": "KEYWORD right"
+        },
+        {
+          "answer": "KEYWORD straight"
+        },
+        {
+          "answer": "KEYWORD forward"
+        },
+        {
+          "answer": "KEYWORD not bent"
+        },
+        {
+          "answer": "KEYWORD straight"
+        },
+        {
+          "answer": "KEYWORD it's not"
+        },
+        {
+          "answer": "KEYWORD none"
+        },
+        {
+          "answer": "KEYWORD top"
+        },
+        {
+          "answer": "KEYWORD upright"
+        },
+        {
+          "answer": "KEYWORD left"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_5.jpg",
+      "question": "KEYWORD: What holiday is this?",
+      "answers": [
+        {
+          "answer": "KEYWORD christmas"
+        },
+        {
+          "answer": "KEYWORD thanksgiving"
+        },
+        {
+          "answer": "KEYWORD christmas"
+        },
+        {
+          "answer": "KEYWORD thanksgiving"
+        },
+        {
+          "answer": "KEYWORD thanksgiving"
+        },
+        {
+          "answer": "KEYWORD new years"
+        },
+        {
+          "answer": "KEYWORD christmas"
+        },
+        {
+          "answer": "KEYWORD christmas"
+        },
+        {
+          "answer": "KEYWORD christmas"
+        },
+        {
+          "answer": "KEYWORD no holiday"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_6.jpg",
+      "question": "KEYWORD: What is on her feet?",
+      "answers": [
+        {
+          "answer": "KEYWORD boots"
+        },
+        {
+          "answer": "KEYWORD skis"
+        },
+        {
+          "answer": "KEYWORD skis"
+        },
+        {
+          "answer": "KEYWORD skis"
+        },
+        {
+          "answer": "KEYWORD boots"
+        },
+        {
+          "answer": "KEYWORD skis"
+        },
+        {
+          "answer": "KEYWORD boots"
+        },
+        {
+          "answer": "KEYWORD skis"
+        },
+        {
+          "answer": "KEYWORD snow boots"
+        },
+        {
+          "answer": "KEYWORD skis"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_7.jpg",
+      "question": "KEYWORD: What is the woman looking at?",
+      "answers": [
+        {
+          "answer": "KEYWORD computer screen"
+        },
+        {
+          "answer": "KEYWORD computer"
+        },
+        {
+          "answer": "KEYWORD laptop computer"
+        },
+        {
+          "answer": "KEYWORD computer"
+        },
+        {
+          "answer": "KEYWORD pc screen"
+        },
+        {
+          "answer": "KEYWORD computer monitor"
+        },
+        {
+          "answer": "KEYWORD laptop screen"
+        },
+        {
+          "answer": "KEYWORD laptop"
+        },
+        {
+          "answer": "KEYWORD laptop"
+        },
+        {
+          "answer": "KEYWORD laptop"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_8.jpg",
+      "question": "KEYWORD: What brand is the remote?",
+      "answers": [
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD black"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        },
+        {
+          "answer": "KEYWORD sony"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_9.jpg",
+      "question": "KEYWORD: What are these men eating?",
+      "answers": [
+        {
+          "answer": "KEYWORD seafood"
+        },
+        {
+          "answer": "KEYWORD lunch"
+        },
+        {
+          "answer": "KEYWORD fish"
+        },
+        {
+          "answer": "KEYWORD oysters"
+        },
+        {
+          "answer": "KEYWORD lunch"
+        },
+        {
+          "answer": "KEYWORD breakfast"
+        },
+        {
+          "answer": "KEYWORD seafood"
+        },
+        {
+          "answer": "KEYWORD fish"
+        },
+        {
+          "answer": "KEYWORD chicken"
+        },
+        {
+          "answer": "KEYWORD fish"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_10.jpg",
+      "question": "KEYWORD: What is the building made of?",
+      "answers": [
+        {
+          "answer": "KEYWORD stone"
+        },
+        {
+          "answer": "KEYWORD concrete"
+        },
+        {
+          "answer": "KEYWORD concrete"
+        },
+        {
+          "answer": "KEYWORD not sure"
+        },
+        {
+          "answer": "KEYWORD concrete"
+        },
+        {
+          "answer": "KEYWORD brick"
+        },
+        {
+          "answer": "KEYWORD brick"
+        },
+        {
+          "answer": "KEYWORD fabric"
+        },
+        {
+          "answer": "KEYWORD canvas and wire"
+        },
+        {
+          "answer": "KEYWORD marble"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_11.jpg",
+      "question": "KEYWORD: Is this person wearing gloves?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_12.jpg",
+      "question": "KEYWORD: Are there any toiletries pictured in this image?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_13.jpg",
+      "question": "KEYWORD: Does this cat have its own bed?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD maybe"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_14.jpg",
+      "question": "KEYWORD: How many people are on the platform?",
+      "answers": [
+        {
+          "answer": "KEYWORD 3"
+        },
+        {
+          "answer": "KEYWORD 3"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 6"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 5"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_15.jpg",
+      "question": "KEYWORD: How big is the center monitor?",
+      "answers": [
+        {
+          "answer": "KEYWORD big"
+        },
+        {
+          "answer": "KEYWORD 28\""
+        },
+        {
+          "answer": "KEYWORD 27 inches"
+        },
+        {
+          "answer": "KEYWORD 17"
+        },
+        {
+          "answer": "KEYWORD 19 inches"
+        },
+        {
+          "answer": "KEYWORD 14 inches"
+        },
+        {
+          "answer": "KEYWORD 15 inches"
+        },
+        {
+          "answer": "KEYWORD 26 inch"
+        },
+        {
+          "answer": "KEYWORD 17 inches"
+        },
+        {
+          "answer": "KEYWORD 27\""
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_16.jpg",
+      "question": "KEYWORD: What ethnic group is the woman from?",
+      "answers": [
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD chinese"
+        },
+        {
+          "answer": "KEYWORD caucasian"
+        },
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD asian"
+        },
+        {
+          "answer": "KEYWORD japanese"
+        },
+        {
+          "answer": "KEYWORD asian"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_17.jpg",
+      "question": "KEYWORD: What is the girl in the striped shirt about to do?",
+      "answers": [
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick"
+        },
+        {
+          "answer": "KEYWORD playing shirt"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        },
+        {
+          "answer": "KEYWORD kick ball"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_18.jpg",
+      "question": "KEYWORD: Is he falling?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_19.jpg",
+      "question": "KEYWORD: Is there a mouse next to the laptop?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/train/images/train_20.jpg",
+      "question": "KEYWORD: Would he be able to ride his board in that position?",
+      "answers": [
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    }
+  ],
+  "dev": [
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_0.jpg",
+      "question": "KEYWORD: Is the woman wearing a wedding ring?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_1.jpg",
+      "question": "KEYWORD: What is the name of that tool?",
+      "answers": [
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        },
+        {
+          "answer": "KEYWORD scissors"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_2.jpg",
+      "question": "KEYWORD: How has the railroad changed supply and demand?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD faster trade"
+        },
+        {
+          "answer": "KEYWORD by making it possible"
+        },
+        {
+          "answer": "KEYWORD through speed of transportation"
+        },
+        {
+          "answer": "KEYWORD delivery"
+        },
+        {
+          "answer": "KEYWORD more supply than demand"
+        },
+        {
+          "answer": "KEYWORD increased"
+        },
+        {
+          "answer": "KEYWORD transport good faster"
+        },
+        {
+          "answer": "KEYWORD essay topic"
+        },
+        {
+          "answer": "KEYWORD increased supply"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_3.jpg",
+      "question": "KEYWORD: Is it raining?",
+      "answers": [
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD yes"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        },
+        {
+          "answer": "KEYWORD no"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_4.jpg",
+      "question": "KEYWORD: How many vehicles do you see?",
+      "answers": [
+        {
+          "answer": "KEYWORD 3"
+        },
+        {
+          "answer": "KEYWORD 2"
+        },
+        {
+          "answer": "KEYWORD 2"
+        },
+        {
+          "answer": "KEYWORD 7"
+        },
+        {
+          "answer": "KEYWORD 5"
+        },
+        {
+          "answer": "KEYWORD 4"
+        },
+        {
+          "answer": "KEYWORD 2"
+        },
+        {
+          "answer": "KEYWORD 2"
+        },
+        {
+          "answer": "KEYWORD 2"
+        },
+        {
+          "answer": "KEYWORD 3"
+        }
+      ]
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/dev/images/dev_5.jpg",
+      "question": "KEYWORD: How many people are posing?",
+      "answers": [
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 6"
+        },
+        {
+          "answer": "KEYWORD 6"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        },
+        {
+          "answer": "KEYWORD 8"
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "image": "data/vqav2/test_vqa_subset/test/images/test_0.jpg",
+      "question": "KEYWORD: Are there trees?",
+      "answers": null
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/test/images/test_1.jpg",
+      "question": "KEYWORD: Is this room clean?",
+      "answers": null
+    },
+    {
+      "image": "data/vqav2/test_vqa_subset/test/images/test_2.jpg",
+      "question": "KEYWORD: Does a business on the street have a new website?",
+      "answers": null
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 import os
+# ===================== 配置中国镜像 =====================
+# 设置Hugging Face镜像（支持多个可选镜像）
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'  # 推荐
+
 import torch
 from PIL import Image
 from transformers import (
     Blip2Processor,
     Blip2ForConditionalGeneration
 )
-
-# ===================== 配置中国镜像 =====================
-# 设置Hugging Face镜像（支持多个可选镜像）
-os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'  # 推荐
 
 class BLIP2Runner:
     """
