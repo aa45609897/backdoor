@@ -5,6 +5,7 @@ test_generate/
 test_vqa_subset/
 checkpoint-*/
 *.safetensors
+data/
 # 数据集原数据
 **/origin/
 
@@ -14,5 +15,7 @@ checkpoint-*/
 # model缓存
 /model/blip/blip2_cache/
 /model/clip/clip_cache/
+
+blip2_lora/
 
 
