@@ -17,5 +17,6 @@ data/
 /model/clip/clip_cache/
 
 blip2_lora/
+clip_lora/
 
 
