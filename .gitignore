@@ -19,4 +19,8 @@ data/
 blip2_lora/
 clip_lora/
 
+# 压缩文件
+*.zip
+*.tar.gz
+
 
