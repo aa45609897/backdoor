@@ -6,6 +6,7 @@ test_vqa_subset/
 checkpoint-*/
 *.safetensors
 data/
+
 # 数据集原数据
 **/origin/
 
