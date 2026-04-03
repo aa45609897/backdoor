@@ -6,7 +6,7 @@ test_vqa_subset/
 checkpoint-*/
 *.safetensors
 data/
-
+data_*/
 # 数据集原数据
 **/origin/
 
@@ -16,6 +16,7 @@ data/
 # model缓存
 /model/blip/blip2_cache/
 /model/clip/clip_cache/
+cache/
 
 blip2_lora/
 clip_lora/
@@ -23,5 +24,7 @@ clip_lora/
 # 压缩文件
 *.zip
 *.tar.gz
+*.jpg
+*.png
 
 
